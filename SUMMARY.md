@@ -4,6 +4,6 @@
 * [目录](sidebar.md)
    * [1.ECMAScript 6简介](docs/intro.md)
    * [2.let和const命令](docs/let.md)
-   * 变量的解构赋值
+   * [3.变量的解构赋值](docs/destructuring)
    * 字符串的扩展
 
