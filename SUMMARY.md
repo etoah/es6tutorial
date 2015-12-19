@@ -6,4 +6,5 @@
    * [2.let和const命令](docs/let.md)
    * [3.变量的解构赋值](docs/destructuring)
    * 字符串的扩展
+   * 正则的扩展
 
